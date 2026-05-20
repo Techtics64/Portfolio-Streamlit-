@@ -65,3 +65,30 @@ Example:
 
 ```bash
 git clone https://github.com/Techtics64/Portfolio-Streamlit-.git
+
+2. Navigate to Project Folder
+cd Portfolio-Streamlit-
+3. Install Dependencies
+pip install -r requirements.txt
+4. Run Streamlit Application
+streamlit run portfolio.py
+🌐 Deployment
+
+This application is deployed using Streamlit Community Cloud.
+
+📁 Project Structure
+Portfolio-Streamlit-/
+│
+├── portfolio.py
+├── requirements.txt
+├── README.md
+├── assets/
+└── .gitignore
+📬 Contact
+👤 Piyush Pandey
+📧 Email: piyushpandeyy18@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/piyush-pandey-9abb8b2a4
+💻 GitHub: https://github.com/Techtics64
+📄 License
+
+This project is open source and available under the MIT License.
